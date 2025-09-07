@@ -1,4 +1,4 @@
 # apna-college
 this is my first repository
 <br>
-author-Anshika bhadauriya
+author-Anshika bhadauriya (ji)
